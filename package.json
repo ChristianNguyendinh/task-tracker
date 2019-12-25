@@ -1,0 +1,34 @@
+{
+  "name": "task-tracker",
+  "version": "0.0.1",
+  "description": "wip",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristianNguyendinh/task-tracker.git"
+  },
+  "author": "christiann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristianNguyendinh/task-tracker/issues"
+  },
+  "homepage": "https://github.com/ChristianNguyendinh/task-tracker#readme",
+  "dependencies": {
+    "@babel/cli": "^7.7.7",
+    "@babel/core": "^7.7.7",
+    "@babel/preset-env": "^7.7.7",
+    "@babel/preset-react": "^7.7.4",
+    "babel-loader": "^8.0.6",
+    "css-loader": "^3.4.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-hot-loader": "^4.12.18",
+    "style-loader": "^1.1.2",
+    "webpack": "^4.41.4",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.1"
+  }
+}
