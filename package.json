@@ -4,6 +4,10 @@
   "description": "wip",
   "main": "index.js",
   "scripts": {
+    "build": "npm run build:dev",
+    "build:dev": "webpack --mode development",
+    "build:prod": "webpack --mode production",
+    "start": "webpack-dev-server --mode development",
     "test": "npm run test"
   },
   "repository": {
@@ -32,3 +36,4 @@
     "webpack-dev-server": "^3.10.1"
   }
 }
+
