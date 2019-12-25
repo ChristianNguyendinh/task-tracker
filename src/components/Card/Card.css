@@ -1,0 +1,31 @@
+.Card {
+	border: 1px solid white;
+	border-radius: 20px;
+	box-shadow: 0px 0px 2px black;
+	padding: 1em;
+	margin: 1em 0em;
+	background-color: white;
+}
+
+.Card:hover {
+	box-shadow: 0px 0px 10px lightblue;
+	cursor: pointer;
+}
+
+.card-title {
+	margin-bottom: 1em;
+	text-overflow: ellipsis;
+}
+
+.card-info {
+	margin-bottom: 2em;
+}
+
+.card-points {
+	float: left;
+}
+
+.card-assignee {
+	float: right;
+}
+
