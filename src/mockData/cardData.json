@@ -51,7 +51,7 @@
 	{
 		"title": "My test task",
 		"description": "Etiam at est leo. Duis iaculis condimentum nunc in mattis. Fusce rutrum tempor neque sit amet hendrerit. Donec hendrerit pharetra euismod.",
-		"status": "In progress",
+		"status": "In Progress",
 		"points": 5,
 		"assignee": "dev3"
 	}
